@@ -140,7 +140,7 @@ olist-ecommerce-analysis/
 
 ### Dashboard 1 — Executive Overview
 
-![Executive Overview](./Report/EXECUTIVE_OVERVIEW.png)
+![Executive Overview](./Dashboard/EXECUTIVE%20OVERVIEW.png)
 
 *KPI cards, monthly order trend, order status breakdown, payment preferences, geographic distribution, top revenue states*
 
@@ -148,7 +148,7 @@ olist-ecommerce-analysis/
 
 ### Dashboard 2 — Sales & Revenue Analysis
 
-![Sales & Revenue Analysis](./Report/SALES___REVENUE_ANALYSIS.png)
+![Sales & Revenue Analysis](./Dashboard/SALES%20%26%20REVENUE%20ANALYSIS.png)
 
 *Monthly revenue bar chart, MoM growth line, customer satisfaction vs delivery time, top product categories, customer distribution by state*
 
@@ -156,7 +156,7 @@ olist-ecommerce-analysis/
 
 ### Dashboard 3 — Operations & Seller Performance
 
-![Operations & Seller Performance](./Report/Operations___Seller_Performance.png)
+![Operations & Seller Performance](./Dashboard/Operations%20%26%20Seller%20Performance.png)
 
 *States with highest delivery times, late delivery by product category, top revenue-generating sellers, seller orders vs revenue scatter plot*
 
@@ -164,7 +164,7 @@ olist-ecommerce-analysis/
 
 ### Dashboard 4 — Advanced Customer Analytics
 
-![Advanced Customer Analytics](./Report/Advanced_Customer_Analytics.png)
+![Advanced Customer Analytics](./Dashboard/Advanced%20Customer%20Analytics.png)
 
 *RFM top customers table, MoM revenue growth analysis with trend line*
 
