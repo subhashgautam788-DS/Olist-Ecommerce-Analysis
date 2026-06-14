@@ -16,17 +16,17 @@
 
 ## 📊 Power BI Dashboards
 
-### Dashboard 1 — Executive Overview
-![Executive Overview](./Report/EXECUTIVE_OVERVIEW.png)
+### Dashboard 1 – Executive Overview
+![Executive Overview](./Dashboard/EXECUTIVE%20OVERVIEW.png)
 
-### Dashboard 2 — Sales & Revenue Analysis
-![Sales & Revenue Analysis](./Report/SALES___REVENUE_ANALYSIS.png)
+### Dashboard 2 – Sales & Revenue Analysis
+![Sales & Revenue Analysis](./Dashboard/SALES%20%26%20REVENUE%20ANALYSIS.png)
 
-### Dashboard 3 — Operations & Seller Performance
-![Operations & Seller Performance](./Report/Operations___Seller_Performance.png)
+### Dashboard 3 – Operations & Seller Performance
+![Operations & Seller Performance](./Dashboard/Operations%20%26%20Seller%20Performance.png)
 
-### Dashboard 4 — Advanced Customer Analytics
-![Advanced Customer Analytics](./Report/Advanced_Customer_Analytics.png)
+### Dashboard 4 – Advanced Customer Analytics
+![Advanced Customer Analytics](./Dashboard/Advanced%20Customer%20Analytics.png)
 
 ---
 
